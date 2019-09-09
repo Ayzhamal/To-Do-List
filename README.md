@@ -1,4 +1,4 @@
-# To-Do-List-
+# To-Do-List
 Nice and Simple To-Do List 
 
 The author of this nice To-Do list is Colt Steele. 
